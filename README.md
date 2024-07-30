@@ -12,10 +12,18 @@ Next.js: A powerful React framework for building server-rendered applications.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
 GSAP (GreenSock Animation Platform): A robust library for creating complex animations and transitions.
 
+
+
+Hero Section
 ![Screenshot (1145)](https://github.com/user-attachments/assets/8a3bf966-dc75-4e41-b8c4-4fd3bb31c356) 
+
+Bento Grid Layout
 ![Screenshot (1146)](https://github.com/user-attachments/assets/f7c9bbde-21e1-4dec-bdae-9dce0c792099)
+
+What we do Section
 ![Screenshot (1147)](https://github.com/user-attachments/assets/d79a8b27-eec3-4172-895d-fe2b5c677230)
 
-![Uploading Screenshot (1148).png…]()
+Images
+![Screenshot (1149)](https://github.com/user-attachments/assets/dc5513cc-6697-4c9c-bffd-03f47ce84348)
 
 
