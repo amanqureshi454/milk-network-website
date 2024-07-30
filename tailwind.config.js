@@ -7,12 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
-    },
+      screens: {
+        "xxl": "1800px",  // Extra-extra-large screens (>= 1800px)
+        "xl": "1280px",   // Extra-large screens (>= 1280px)
+        "lg": "1024px",   // Large screens (>= 1024px)
+        "md": { "min": "540px", "max": "1024px" },     // Medium screens (>= 950px)
+        "sm": { "min": "320px", "max": "540px" },   // Small screens (>= 640px)
+      }
+    }
   },
-  plugins: [],
+  plugins: []
 };
