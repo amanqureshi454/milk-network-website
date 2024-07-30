@@ -72,9 +72,9 @@ const MobileNavbar = ({ links, menuIsOpen, setMenuIsOpen }) => {
             </div>
             <div className="mobile__links mt-14 flex w-full flex-col items-start justify-start gap-3 overflow-y-hidden px-4">
               {links.map((item, index) => (
-                <div className="overflow-hidden">
+                <div  key={index} className="overflow-hidden">
                   <div
-                    key={index}
+                   
                     className="hover-links font-[Milk-2] text-5xl font-light capitalize text-black"
                     href={item.href}
                   >
